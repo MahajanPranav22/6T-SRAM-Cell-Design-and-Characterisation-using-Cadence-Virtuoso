@@ -103,10 +103,6 @@ Each image has a dedicated markdown file with:
 - **Key observations and measurements**
 - **Copy-paste friendly content for reports**
 
-Navigate to the respective directories for detailed explanations:
-- [Schematics Documentation](./schematics/)
-- [Simulation Results](./simulations/)
-- [Layout Documentation](./layout/)
 
 ---
 
